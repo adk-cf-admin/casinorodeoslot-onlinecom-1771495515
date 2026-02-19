@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#27150B",
+            "lang-select-color": "#222829",
+            "bg-light": "#27150B",
+            "welcome-bonus-bg": "#27150B",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#472614",
+            "text": "#fefefe",
+            "text-black": "#ffffff",
+            "table-head": "#A24B01",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#A24B01",
+            "yellow-button": "#D39813",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#27150B",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#27150B",
+            "faq-label": "#27150B",
+            "bg-footer": "#27150B",
+            "copyright": "#e7e7d5",
+            "starColor": "#A24B01",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3295"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3296",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Rodeoslot Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3297",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Rodeoslot Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Rodeoslot Casino",
+                    "title": "Rodeoslot Casino — Best Online Casino | €1,500 Bonus",
+                    "description": "Play at Rodeoslot Casino — 6,000+ licensed slots, live tables & crypto payments. Claim up to €1,500 + 250 Free Spins. Curaçao operator. Register today!\n",
+                    "canonical": "casinorodeoslot-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3299",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinorodeoslot-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3300"
+                },
+                "hero": {
+                    "title": "Your Premier Online Casino — 6,000+ Games Await",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3301",
+                    "imageSizeModifier": 5,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3302",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino with thousands of games and rewarding bonuses? We operate under a Curaçao eGaming license with SSL-encrypted transactions and over 6,000 certified titles. Here's why players worldwide choose Rodeoslot Casino:\n",
+                    "items": [
+                        "Curaçao eGaming licensed with SSL 256-bit encrypted transactions",
+                        "6,000+ games from BGaming, Pragmatic Play, Evolution Gaming & more",
+                        "Welcome Package up to €1,500 + 250 Free Spins across 3 deposits",
+                        "Crypto & fiat payments: BTC, ETH, Visa, Mastercard, Skrill, Neteller",
+                        "Weekly 25% cashback + up to 17% rakeback for loyal players",
+                        "24\/7 customer support via live chat, email and instant response"
+                    ],
+                    "advantagesAfterText": "Join thousands of players who trust Rodeoslot Casino for secure, certified entertainment. Our Curaçao-licensed platform and dedicated 24\/7 support team are always here for you.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Rodeoslot Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3303",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Rodeoslot Casino App",
+                    "mobileGooglePlayImageTitle": "Rodeoslot Casino App",
+                    "mobileIosImageTitle": "Rodeoslot Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Rodeoslot Casino",
+                        "description1": "We are a modern online gaming platform offering 6,000+ licensed titles from top providers worldwide. Operated by Neon Games S.R.L. under Curaçao eGaming license, we deliver premium slots, live dealer tables, and exclusive Originals to players globally.\n",
+                        "items": [
+                            "Launched with 6,000+ games from leading global providers",
+                            "Achieved Curaçao eGaming license for certified fair play",
+                            "Introduced 30+ exclusive RodeoSlot Originals titles",
+                            "Expanded to full crypto and fiat payment ecosystem"
+                        ],
+                        "description2": "We operate under Curaçao eGaming license and apply SSL 256-bit encryption across all transactions. Every game on our platform is RNG-certified for provably fair outcomes. Your data and funds are secured at every step.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3304",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our game portfolio with new providers and exclusive titles for players worldwide. Our responsible gaming tools and dedicated support make us a trusted choice. Join us today and experience next-level online entertainment!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio at Rodeoslot",
+                        "description": "<h2>Complete Game Portfolio at Rodeoslot Casino<\/h2>\n\n<p>At Rodeoslot Casino, we offer one of the most diverse gaming libraries available to online players, featuring over 6,000 certified titles across every major category. Whether you enjoy spinning the reels on classic or modern video slots, engaging in strategic table games, or immersing yourself in the atmosphere of a live dealer studio, our platform delivers an unmatched experience. Powered by industry-leading providers including BGaming, Pragmatic Play, Evolution Gaming, NetEnt, and Microgaming, every game on our platform is RNG-certified and independently tested for provably fair outcomes. Our intuitive lobby is designed for seamless navigation, allowing players to filter games by provider, category, RTP, and volatility for a personalized gaming session.<\/p>\n\n<h3>Slots Collection — 5,000+ Certified Titles<\/h3>\n\n<p>Our slot library is the cornerstone of the Rodeoslot Casino experience, housing over 5,000 licensed slot machines from 50+ verified software providers. From low-volatility fruit machines with RTP values above 97% to high-variance megaways titles offering 117,649 ways to win, our collection caters to every type of player. Popular titles include Gates of Olympus (RTP 96.5%, max win 5,000x) by Pragmatic Play, Book of Dead (RTP 96.21%) by Play'n GO, Sweet Bonanza (RTP 96.48%) with up to 21,100x multiplier, and Razor Shark (RTP 96.70%) by Push Gaming. New releases are added weekly, so your gaming experience stays fresh and exciting. Players looking for massive payouts can explore our progressive jackpot section, where accumulating prize pools regularly exceed €1,000,000.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Slots:<\/strong> Timeless 3-reel and 5-reel formats with straightforward mechanics, ideal for beginners. Titles like Starburst (RTP 96.1%) and Royal Joker: Hold and Win offer clean gameplay with rewarding bonus features and maximum wins up to 500x your stake.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots:<\/strong> Dynamic reel systems powered by BTG's Megaways engine delivering up to 117,649 ways to win per spin. Titles like Gonzo's Quest Megaways (RTP 96%) and Extra Chilli Megaways bring cascading reels and expanding multipliers for enormous winning potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpots:<\/strong> Life-changing prize pools that grow with every bet placed across the network. Mega Moolah by Microgaming holds the world record for online jackpot payouts exceeding €20,000,000, while local jackpots reset at €10,000 and seed upward continuously.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Buy-Bonus Feature Slots:<\/strong> Skip the base game and purchase direct access to the bonus round with a fixed multiplier of your stake. Popular in our library — Big Bass Bonanza, Book of Demi Gods 2, and Aztec Magic Megaways allow players to activate features instantly.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>BGaming Originals & Exclusives:<\/strong> A dedicated section of titles built specifically for our platform, including Johnny Cash: American Rebel, Platinum Lightning Deluxe, and Aztec Magic. These slots are available exclusively at Rodeoslot Casino with enhanced RTP rates and unique bonus mechanics.<\/li>\n<\/ul>\n\n<h3>What Table Games Does Rodeoslot Casino Offer?<\/h3>\n\n<p>Our RNG table game collection brings the authentic casino floor experience directly to your screen, with certified outcomes guaranteed by independent testing. We feature over 200 virtual table game variants powered by RNG algorithms tested by GLI and iTech Labs, ensuring statistically fair results in every round. Whether you prefer the strategy-heavy nature of blackjack or the pure chance of roulette, every variant is available at stakes from €0.10 to €5,000 per hand or spin. The lobbey is organized by game type, allowing instant access to your preferred table format without any waiting time.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Variants:<\/strong> European Roulette (RTP 97.3%), American Roulette (RTP 94.74%), French Roulette with La Partage rule (RTP 98.65%), and Multi-Wheel Roulette for simultaneous multi-table wagering. All variants support neighbour bets, announced bets, and customizable racing-track interfaces.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack Collection:<\/strong> Classic Blackjack (RTP 99.5%), Double Exposure Blackjack, Atlantic City Blackjack, Pontoon, and Perfect Pairs Blackjack. All games feature standard splitting, doubling, and insurance mechanics with configurable bet limits from €1 to €5,000 per hand.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Baccarat & Poker:<\/strong> Standard Punto Banco Baccarat (RTP 98.94%), No Commission Baccarat, Mini Baccarat, Texas Hold'em Bonus Poker, Three Card Poker with 6-Card Bonus side bet, and Caribbean Stud Poker with a network progressive jackpot exceeding €50,000.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Instant Win & Specialty:<\/strong> Keno, Scratch Cards, Virtual Sports, and Arcade Games round out our table section. These instant-result titles are ideal for quick sessions and offer payouts within seconds, with stakes as low as €0.10 per game.<\/li>\n<\/ul>\n\n<h3>Live Dealer Casino — Real-Time Streaming from Professional Studios<\/h3>\n\n<p>Our live casino section is powered by Evolution Gaming and Pragmatic Play Live, delivering over 200 real-time tables streamed in HD and 4K quality directly from certified studios. Professional dealers, multi-camera angles, and studio-quality audio make every session feel like a genuine casino floor experience. We offer dedicated English-speaking dealer tables, ensuring all global players enjoy seamless communication throughout their gaming session. All live games operate under strict Curaçao regulatory compliance with independent fairness auditing performed monthly by accredited laboratories.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Live Roulette (RTP 97.3%), Immersive Roulette with cinematic multi-angle slow-motion replay, Speed Roulette for fast-paced sessions, Lightning Roulette by Evolution with random RNG multipliers up to 500x on single numbers, and Auto Roulette for uninterrupted automated spins.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Standard Live Blackjack, Infinite Blackjack with unlimited seat capacity, Lightning Blackjack with random multipliers up to 25x on winning hands, VIP Blackjack with table limits reaching €25,000 per hand, and Free Bet Blackjack where splits and doubles are funded by the house at no player cost.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat & Poker:<\/strong> Speed Baccarat (round duration under 27 seconds), No Commission Baccarat, Baccarat Squeeze with card reveal tension, Live Casino Hold'em (RTP 97.84%), Three Card Poker, and Ultimate Texas Hold'em with Trips bonus side bet paying up to 50:1 on a Royal Flush.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time by Evolution Gaming with 4 bonus rounds and max win 20,000x, Monopoly Live combining real-time board game with live wagering, Mega Ball bingo-lottery hybrid with multipliers up to 1,000x, Deal or No Deal Live, and Dream Catcher money wheel with 7 segments and multiplier wedges up to 40x.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Dedicated VIP Live Tables:<\/strong> Exclusive high-limit tables reserved for VIP members and high-rollers, featuring table stakes from €100 to €100,000 per round. Priority seating, personal account managers, and dedicated VIP hosts ensure a premium, privacy-oriented gaming environment.<\/li>\n<\/ul>\n\n<h3>RodeoSlot Originals — 30+ Exclusive In-House Games<\/h3>\n\n<p>One of the most distinctive aspects of our platform is the dedicated RodeoSlot Originals section, home to over 30 exclusive titles developed in-house and available nowhere else. These games combine provably fair mechanics with innovative gameplay loops, offering transparency and entertainment in equal measure. Unlike standard RNG slots, our Originals use verifiable algorithms that allow players to independently confirm outcome fairness before and after each round. Titles range from crash games and dice simulators to exclusive slot hybrids with unique bonus systems designed specifically for our player community.<\/p>\n\n<h3>Sports Betting & E-Sports at Rodeoslot Casino<\/h3>\n\n<p>Beyond traditional casino entertainment, we operate a fully integrated sportsbook covering 30+ sports disciplines and 1,000+ daily betting markets. From Premier League football and NBA basketball to Formula 1, tennis Grand Slams, and major boxing events, our sportsbook provides competitive odds powered by leading data providers. Our e-sports section covers CS2, Dota 2, League of Legends, Valorant, and FIFA tournaments with pre-match and in-play wagering. New sportsbook players can claim a dedicated 100% sports welcome bonus up to €100, making Rodeoslot Casino a true all-in-one online gambling destination for every type of player.<\/p>\n\n<h3>Mobile Gaming — Play Anywhere, Anytime<\/h3>\n\n<p>Every single game in our library is fully optimized for mobile play through our adaptive responsive interface, which automatically adjusts to any screen resolution from 320px smartphones to 2K tablet displays. There is no app download required — simply visit Rodeoslot Casino through your mobile browser on iOS or Android to access all 6,000+ games, bonuses, live dealer tables, and sportsbook markets in full functionality. Our mobile platform loads in under 3 seconds on standard 4G connections and supports touch-friendly controls, portrait and landscape modes, and biometric login for enhanced account security. Whether you prefer spinning slots on your lunch break or betting live on a football match from the sofa, our mobile casino ensures a flawless, uninterrupted experience.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Bonuses, Banking & VIP at Rodeoslot",
+                        "description": "<h2>Bonuses, Banking & VIP Rewards at Rodeoslot Casino<\/h2>\n\n<p>At Rodeoslot Casino, we believe every player deserves exceptional value from their very first deposit. Our multi-layered bonus system is designed to reward new registrations generously while continuously incentivizing loyal players through weekly cashback, rakeback, and an exclusive VIP program. Unlike one-time offers found at many competing gambling platforms, our promotional ecosystem provides ongoing rewards at every stage of your journey — from your welcome package through to elite VIP membership with dedicated account management. All bonuses are subject to clearly stated wagering requirements and validity periods, published transparently in your account's Bonus Hub section.<\/p>\n\n<h3>Welcome Package — Up to €1,500 + 250 Free Spins<\/h3>\n\n<p>Our flagship welcome package spans your first three deposits, delivering a combined maximum of €1,500 in bonus funds alongside 250 free spins on selected BGaming titles. The offer activates automatically upon registration — no promo code is required. Each deposit tier carries independent wagering requirements of 35x–40x the bonus amount, with a 7-day validity window to complete the playthrough. Free spins from the first and second deposits are issued in daily batches of 50 spins over 3 and 2 days respectively, playable on top titles including Gates of Olympus, Aztec Magic, Johnny Cash: American Rebel, and Platinum Lightning Deluxe.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>First Deposit Bonus:<\/strong> 100% match bonus up to €500 plus 150 Free Spins. Minimum qualifying deposit is €15. Spins are issued as 50 per day across 3 consecutive days. Wagering requirement: 35x the bonus amount within 7 days from activation.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Second Deposit Bonus:<\/strong> 55% match bonus up to €500 plus 100 Free Spins. Minimum qualifying deposit is €15. Spins are distributed as 50 per day for 2 days. Standard 35x wagering applies within the 7-day bonus period after activation.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Third Deposit Bonus:<\/strong> 100% match bonus up to €500 with no attached free spins. Minimum qualifying deposit is €15. This final tier maximizes your bonus bankroll before transitioning into our ongoing promotional program with weekly reload and cashback offers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Sports Welcome Bonus:<\/strong> New sportsbook players receive a dedicated 100% bonus up to €100 on their first sports deposit. This offer is independent from the casino welcome package, allowing players to benefit from both promotions simultaneously if they engage with casino and sports sections.<\/li>\n<\/ul>\n\n<h3>Weekly Cashback — Up to 25% Back Every Week<\/h3>\n\n<p>We know that variance is part of every genuine gambling experience, which is why our weekly cashback program returns up to 25% of your net losses every week. Cashback percentages scale with your VIP tier and overall betting activity, with higher-level members receiving maximum rates automatically. The cashback is calculated every Monday based on your previous week's performance and credited to your account without any wagering requirements attached, making it true cash rather than restricted bonus funds. Players who consistently wager across casino games and sportsbook markets simultaneously accumulate cashback eligibility faster, unlocking higher percentage tiers within shorter timeframes.<\/p>\n\n<h3>Rakeback Program — Up to 17% on Every Bet<\/h3>\n\n<p>Our rakeback system rewards every single wager placed on our platform, regardless of the outcome. Based on your monthly betting volume and VIP status, we return between 5% and 17% of the theoretical house edge directly to your account as redeemable cash. This is a particularly powerful benefit for high-frequency players and high-rollers who generate substantial wagering volume, as the accumulated rakeback can offset losses and significantly extend effective bankroll longevity over time. Rakeback is calculated automatically and posted to your account on a defined schedule, visible in full detail within your personal VIP dashboard.<\/p>\n\n<h3>VIP Program & Highroller Rewards<\/h3>\n\n<p>Our tiered VIP program recognizes and rewards player loyalty at every level. Members progress through VIP ranks by accumulating loyalty points earned from real-money wagers across all game categories. Each tier upgrade unlocks enhanced benefits, including higher withdrawal limits, faster payout processing, dedicated account managers, exclusive bonus offers, and invitations to private tournaments with guaranteed prize pools. Our Highroller tier caters specifically to players with substantial bankrolls, offering personalized deals, bespoke bonus structures, priority 24\/7 support, and withdrawal limits elevated beyond the standard €15,000 monthly cap.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Loyalty Points System:<\/strong> Every real-money bet earns loyalty points at a defined rate per €1 wagered, varying by game category. Points convert to bonus cash or free spins through the reward store in your account dashboard, giving you full control over how you redeem your accumulated value.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tournaments & Missions:<\/strong> Weekly and monthly leaderboard tournaments with guaranteed prize pools distributed among top finishers. Daily and weekly missions assign specific tasks — such as spinning a set number of rounds on featured titles — with instant cash or free spin rewards upon completion.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Sunday Reload Bonus:<\/strong> Each Sunday, we reward active players with a reload bonus on their weekend deposit. The exact percentage and cap adjust according to your VIP level, ensuring that higher-tier members consistently receive the most competitive reload deals available.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Lottery Draws:<\/strong> Regular lottery events issue prize tickets based on wagering activity. Draws take place at scheduled intervals, with prizes ranging from free spins and bonus funds to exclusive merchandise and enhanced cashback allocations for the draw winners.<\/li>\n<\/ul>\n\n<h3>Banking Methods — Flexible Fiat & Crypto Payments<\/h3>\n\n<p>We support a comprehensive range of deposit and withdrawal methods designed to accommodate players worldwide. From traditional bank card payments via Visa and Mastercard to modern e-wallet solutions like Skrill, Neteller, and Trustly, every major global payment option is covered. Cryptocurrency players can deposit and withdraw using Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), USD Coin (USDC), Tether (USDT), and Solana (SOL), with blockchain confirmations typically processing within 10–30 minutes. The minimum deposit to activate most bonuses is €15–€20 depending on the specific payment method, while the standard minimum withdrawal threshold is €50 across all methods. Non-VIP players are subject to a monthly withdrawal cap of €15,000, which is elevated for VIP and Highroller members upon request through their dedicated account manager.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #d49b1a;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Speed<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #211004;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Card<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant \/ 1-3 days<\/td>\n    <\/tr>\n    <tr style=\"background-color: #331c0b;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill \/ Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">E-Wallet<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant \/ 2-4 hrs<\/td>\n    <\/tr>\n    <tr style=\"background-color: #211004;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Trustly<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Bank Transfer<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant \/ 1-2 days<\/td>\n    <\/tr>\n    <tr style=\"background-color: #331c0b;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Apple \/ Google Pay<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Mobile Pay<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #211004;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bitcoin (BTC)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Crypto<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">10-30 min<\/td>\n    <\/tr>\n    <tr style=\"background-color: #331c0b;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Ethereum (ETH)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Crypto<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">5-15 min<\/td>\n    <\/tr>\n    <tr style=\"background-color: #211004;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>USDT \/ USDC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Stablecoin<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">5-15 min<\/td>\n    <\/tr>\n    <tr style=\"background-color: #331c0b;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>SEPA Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Bank Transfer<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1-3 days<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Account Verification & Withdrawal Processing<\/h3>\n\n<p>To protect player funds and comply with Curaçao eGaming anti-money laundering regulations, all withdrawal requests require successful KYC (Know Your Customer) verification. The process involves submitting a government-issued photo ID, proof of address dated within 3 months, and optionally proof of payment method. Our compliance team reviews standard verification documents within 12 hours during business days. Once verified, e-wallet and cryptocurrency withdrawals typically process within 2–4 hours, while bank card and bank transfer withdrawals may take 1–3 business days depending on your financial institution's processing times. Completing verification early — immediately after registration — eliminates delays when your first withdrawal request is submitted, ensuring the fastest possible payout experience.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim the welcome bonus at Rodeoslot Casino?",
+                            "answer": "Register your account, select the casino welcome bonus in the Bonus Hub, and deposit at least €15. Your 100% match bonus up to €500 + 150 Free Spins credits automatically. Wagering requirement is 35x within 7 days. No promo code needed to activate the offer.\n"
+                        },
+                        {
+                            "title": "Is Rodeoslot Casino licensed and safe to play for real money?",
+                            "answer": "Yes, we operate under a valid Curaçao eGaming license issued to Neon Games S.R.L. All transactions are protected by SSL 256-bit encryption, and every game uses certified RNG algorithms tested for provably fair outcomes. Your funds and personal data are secured at all times.\n"
+                        },
+                        {
+                            "title": "What payment methods does Rodeoslot Casino accept?",
+                            "answer": "We accept Visa, Mastercard, Apple Pay, Google Pay, Skrill, Neteller, Trustly, SEPA, and major cryptocurrencies including Bitcoin, Ethereum, Litecoin, XRP, USDT, and Solana. Minimum deposit is €15–€20. Withdrawals start from €50 with e-wallet payouts processed within 2–4 hours.\n"
+                        },
+                        {
+                            "title": "How long does a withdrawal take at Rodeoslot Casino?",
+                            "answer": "E-wallet and cryptocurrency withdrawals process within 2–4 hours after KYC verification approval. Bank card withdrawals take 1–3 business days. Standard KYC review completes within 12 hours. Monthly withdrawal limit is €15,000 for regular players, with higher limits for VIP members.\n"
+                        },
+                        {
+                            "title": "Does Rodeoslot Casino offer weekly cashback?",
+                            "answer": "Yes, we offer up to 25% weekly cashback on net losses, credited every Monday with no wagering requirements. Additionally, our rakeback program returns up to 17% on all wagers based on your VIP level. Both programs run simultaneously for maximum ongoing player value.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile device?",
+                            "answer": "Absolutely — all 200+ live dealer tables from Evolution Gaming and Pragmatic Play Live are fully optimized for mobile browsers on iOS and Android. No app download is required. Our responsive platform loads in under 3 seconds on 4G connections and supports all live game formats including roulette, blackjack, and game shows.\n"
+                        },
+                        {
+                            "title": "What documents do I need for account verification?",
+                            "answer": "KYC verification requires a government-issued photo ID (passport or national ID card), proof of address dated within 3 months (utility bill or bank statement), and optionally proof of your payment method. Our compliance team reviews submissions within 12 hours to ensure fast and secure processing.\n"
+                        },
+                        {
+                            "title": "How does the Rodeoslot Casino VIP program work?",
+                            "answer": "Our VIP program rewards loyalty points on every real-money wager. Points unlock higher VIP tiers with benefits including elevated weekly cashback up to 25%, rakeback up to 17%, higher withdrawal limits, dedicated account managers, exclusive tournament invites, and personalized Highroller bonus deals.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
